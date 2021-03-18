@@ -16,6 +16,8 @@ body {
     width: 70%;
     margin: auto;
 }
+
+/* uncommon */
 /* HEADER */
 header {
     height: 140px;
@@ -31,31 +33,38 @@ header {
     margin-bottom: 20px;
     background-color: burlywood;
 }
+
 /* blocco2 */
+/* barra blocco2 */
 #blocco2 {
-    height: 665px;
     margin-bottom: 10px;
     background-color: blue;
 }
 
-/* blocco2 interno */
 #barra {
     height: 75px;
     margin-bottom: 20px;
     background-color: lightskyblue;
 }
 
-.stretto {
-    height: 550px;
+/* container dei float */
+.container {
+
+}
+
+.lato {
+    height: 600px;
     width: 22%;
+    margin-bottom: 20px;
     background-color: lightskyblue;
     float: left;
 }
 
 #centro {
-    height: 550px;
+    height: 600px;
     width: 54%;
     margin: 0 1%;
+    margin-bottom: 20px;
     background-color: lightskyblue;
     float: left;
 }
