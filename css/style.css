@@ -6,10 +6,42 @@
     margin: 0;
     padding: 0;
 }
-
 /* clearfix */
 .container::after {
     content: "";
     display: table;
     clear: both;
+}
+
+body {
+    width: 70%;
+    margin: auto;
+}
+/* HEADER */
+header {
+    height: 140px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: pink;
+}
+
+/* MAIN */
+/* blocco1 */
+#blocco1 {
+    height: 420px;
+    margin-bottom: 20px;
+    background-color: burlywood;
+}
+/* blocco2 */
+#blocco2 {
+    height: 610px;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+}
+
+/* FOOTER */
+footer {
+    height: 70px;
+    margin-bottom: 20px;
+    background-color: purple;
 }
