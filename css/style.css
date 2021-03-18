@@ -1,5 +1,4 @@
 /* common */
-
 /* reset */
 * {
     box-sizing: border-box;
@@ -34,9 +33,31 @@ header {
 }
 /* blocco2 */
 #blocco2 {
-    height: 610px;
+    height: 665px;
     margin-bottom: 10px;
-    background-color: aquamarine;
+    background-color: blue;
+}
+
+/* blocco2 interno */
+#barra {
+    height: 75px;
+    margin-bottom: 20px;
+    background-color: lightskyblue;
+}
+
+.stretto {
+    height: 550px;
+    width: 22%;
+    background-color: lightskyblue;
+    float: left;
+}
+
+#centro {
+    height: 550px;
+    width: 54%;
+    margin: 0 1%;
+    background-color: lightskyblue;
+    float: left;
 }
 
 /* FOOTER */
