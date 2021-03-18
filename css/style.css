@@ -35,23 +35,21 @@ header {
 }
 
 /* blocco2 */
-/* barra blocco2 */
 #blocco2 {
     margin-bottom: 10px;
     padding-bottom: 20px;
     background-color: blue;
 }
 
+/* barra blocco2 */
 #barra {
     height: 75px;
     margin-bottom: 20px;
     background-color: lightskyblue;
 }
 
-/* container dei float */
-.container {
-}
-
+/* .container dei float */
+/* rettangoli  */
 .lato {
     height: 500px;
     width: 22%;
