@@ -12,7 +12,7 @@
     clear: both;
 }
 
-body {
+.layout {
     width: 70%;
     margin: auto;
 }
@@ -38,6 +38,7 @@ header {
 /* barra blocco2 */
 #blocco2 {
     margin-bottom: 10px;
+    padding-bottom: 20px;
     background-color: blue;
 }
 
@@ -49,7 +50,6 @@ header {
 
 /* container dei float */
 .container {
-    padding-bottom: 20px;
 }
 
 .lato {
